@@ -1,0 +1,7 @@
+name: Casino
+main: Casino\Main
+author: TutoGamerWalid
+authors: ["MinePM"]
+description: This plugin supported EconomyAPI
+version: 1.0
+api: 1.14.0

@@ -1,0 +1,8 @@
+#WARNING!! THIS PLUGIN WORK WITH ECONOMYAPI. NEED ECONOMYAPI
+#create your own sign with amount of money.
+money_of_sign: 15
+#add a amount of money for winner
+money_of_win: 20
+#add amount of money for winner x2
+money_of_winx2: 40
+#sign line 1: [Casino]
